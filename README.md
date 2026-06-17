@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 Job Acceptance Prediction using Machine Learning
+#  Job Acceptance Prediction using Machine Learning
 
 <p>
 A complete Machine Learning pipeline for predicting candidate job acceptance using data preprocessing, feature engineering, feature selection, and supervised classification models.
